@@ -1,0 +1,50 @@
+todo-api/
+|-- src/
+|   |-- app/
+|   |   |-- controllers/
+|   |   |-- dtos/
+|   |   |-- services/
+|   |   |-- Application.ts
+|   |   |-- ContainerConfig.ts
+|   |   |-- DI.ts
+|   |
+|   |-- domain/
+|   |   |-- entities/
+|   |   |-- repositories/
+|   |   |-- services/
+|   |   |-- DomainService.ts
+|   |
+|   |-- infrastructure/
+|   |   |-- repositories/
+|   |   |-- InfrastructureService.ts
+|   |
+|   |-- server.ts
+|   |-- routes.ts
+|
+|-- tests/
+|   |-- app/
+|   |   |-- controllers/
+|   |   |-- services/
+|   |
+|   |-- domain/
+|   |   |-- repositories/
+|   |   |-- services/
+|   |
+|   |-- infrastructure/
+|   |   |-- repositories/
+|
+|-- tsconfig.json
+|-- package.json
+
+
+
+tests/
+|-- app/
+|   |-- controllers/
+|   |-- services/
+|
+|-- domain/
+|   |-- repositories/
+|
+|-- infrastructure/
+|   |-- repositories/
